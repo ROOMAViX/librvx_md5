@@ -32,10 +32,10 @@ typedef struct {
 void MD5Init(MD5_CTX *mdContext);
 void MD5Update(MD5_CTX *mdContext, unsigned char *inBuf, unsigned int inLen);
 void MD5Final(MD5_CTX *mdContext);
-void MDString (char *inString);
+void MDPrint (MD5_CTX *mdContext);
 
+DLLImport void MDString (char *inString);
 DLLImport void MDFile (char *filename);
-DLLImport void MDPrint (MD5_CTX *mdContext);
 
 #ifdef __cplusplus
 }
