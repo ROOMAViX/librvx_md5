@@ -1,4 +1,6 @@
 # librvx_md5
+Current version: 1.0
+
 An Open Source MD5 Tool for Windows.
 
 This source has been successfully compiled with GCC version : gcc version 4.5.0 (GCC)
