@@ -1,15 +1,15 @@
-/************************************************************\
-*															                              *
-*	Public Domain (PD) 2015 ROOMAViX. All Rights Left.        *
-*															                              *
-*	Author	      : ROOMAViX								                  *
-*	Contact author: roomavix@gmail.com						            *
-*															                              *
-*	This file is part of The ROOMAViX Project.				        *
-*															                              *
-*	Source version: librvx_md5-1.0							              *
-*															                              *
-\************************************************************/
+/****************************************************************\
+*								*
+*	Public Domain (PD) 2015 ROOMAViX. All Rights Left.	*
+*								*
+*	Author	      : ROOMAViX				*
+*	Contact author: roomavix@gmail.com			*
+*								*
+*	This file is part of The ROOMAViX Project.		*
+*								*
+*	Source version: librvx_md5-1.0				*
+*								*
+\****************************************************************/
 // librvx_md5.h
 #ifndef LIBRVX_MD5_DLL_H
 #define LIBRVX_MD5_DLL_H
